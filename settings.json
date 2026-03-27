@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yaganmi1-BfpE.aternos.me:47348",
+    "ip": "yaganmi1-BfpE.aternos.me",
     "port": 47348,
     "version": "1.21.1"
   },
